@@ -7,6 +7,6 @@ Homepage: http://www.elmerfem.org
 
 Package: elmerfem-csc-eg
 Architecture: any
-Depends: libopenblas-base, libmumps-5.1.2, libopenmpi2, libparmetis4.0, libmetis5, libhypre-2.13.0, libblas.so.3, liblapack.so.3, liboce-modeling11, liboce-foundation11, libqt5widgets5, libqt5script5, libqt5core5a, libqt5gui5, libqt5help5, libqt5opengl5, libvtk7.1, libvtk7.1-qt
+Depends: libopenblas-base, libmumps-5.1.2, libopenmpi2, libparmetis4.0, libmetis5, libhypre-2.13.0, libblas.so.3, liblapack.so.3, liboce-modeling11, liboce-foundation11, libqt5widgets5, libqt5script5, libqt5core5a, libqt5gui5, libqt5help5, libqt5opengl5, libvtk7.1, libvtk7.1-qt, libqt5svg5
 Description: Elmer finite element modeling monolithic suite, includes ElmerGUI
 Replaces: elmerfem-csc
